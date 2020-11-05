@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276398808850",
+    "firebase_url": "https://iqrajingaji.firebaseio.com",
+    "project_id": "iqrajingaji",
+    "storage_bucket": "iqrajingaji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276398808850:android:171ab76df5fa946e805dcb",
+        "android_client_info": {
+          "package_name": "com.iqra.jingaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276398808850-k8gtjc4okfuf2868ltass4i1hq2631p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqra.jingaji",
+            "certificate_hash": "0453635bb9041c37794bde5d25c1d421d30161bf"
+          }
+        },
+        {
+          "client_id": "276398808850-rp2kqff9ifsdfsoi53mp39ta44bjaoip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4C5gEVzIDKCFVjPoEPdxdIpwRxX9Tkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276398808850-rp2kqff9ifsdfsoi53mp39ta44bjaoip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
